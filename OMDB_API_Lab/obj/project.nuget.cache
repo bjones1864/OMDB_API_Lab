@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x6p3ZfRjabc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\OMDB_API_Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miwol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

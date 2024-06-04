@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|c:\\users\\miwol\\source\\repos\\omdb_api_lab\\omdb_api_lab\\views\\home\\movienight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|solutionrelative:omdb_api_lab\\views\\home\\movienight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|c:\\users\\miwol\\source\\repos\\omdb_api_lab\\omdb_api_lab\\models\\moviedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|solutionrelative:omdb_api_lab\\models\\moviedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|c:\\users\\miwol\\source\\repos\\omdb_api_lab\\omdb_api_lab\\models\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|solutionrelative:omdb_api_lab\\models\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|c:\\users\\miwol\\source\\repos\\omdb_api_lab\\omdb_api_lab\\views\\home\\moviesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|solutionrelative:omdb_api_lab\\views\\home\\moviesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|c:\\users\\miwol\\source\\repos\\omdb_api_lab\\omdb_api_lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|solutionrelative:omdb_api_lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|c:\\users\\miwol\\source\\repos\\omdb_api_lab\\omdb_api_lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCD8EDB-3C2E-4DC6-9D3B-6753F520B06D}|OMDB_API_Lab\\OMDB_API_Lab.csproj|solutionrelative:omdb_api_lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OMDB_API_Lab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OMDB_API_Lab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwB8AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T19:38:26.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OMDB_API_Lab\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OMDB_API_Lab\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:18:43.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDAL.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Models\\MovieDAL.cs",
+              "RelativeDocumentMoniker": "OMDB_API_Lab\\Models\\MovieDAL.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Models\\MovieDAL.cs",
+              "RelativeToolTip": "OMDB_API_Lab\\Models\\MovieDAL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:17:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieModel.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Models\\MovieModel.cs",
+              "RelativeDocumentMoniker": "OMDB_API_Lab\\Models\\MovieModel.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Models\\MovieModel.cs",
+              "RelativeToolTip": "OMDB_API_Lab\\Models\\MovieModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:15:52.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieNight.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Views\\Home\\MovieNight.cshtml",
+              "RelativeDocumentMoniker": "OMDB_API_Lab\\Views\\Home\\MovieNight.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Views\\Home\\MovieNight.cshtml",
+              "RelativeToolTip": "OMDB_API_Lab\\Views\\Home\\MovieNight.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T19:14:28.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Views\\Home\\MovieSearch.cshtml",
+              "RelativeDocumentMoniker": "OMDB_API_Lab\\Views\\Home\\MovieSearch.cshtml",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\OMDB_API_Lab\\OMDB_API_Lab\\Views\\Home\\MovieSearch.cshtml",
+              "RelativeToolTip": "OMDB_API_Lab\\Views\\Home\\MovieSearch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T19:14:12.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

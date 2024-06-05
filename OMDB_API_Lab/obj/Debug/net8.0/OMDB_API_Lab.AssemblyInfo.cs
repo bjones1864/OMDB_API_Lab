@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OMDB_API_Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+509c90674f18ed895fdbb6cbf937380a1c51a676")]
 [assembly: System.Reflection.AssemblyProductAttribute("OMDB_API_Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OMDB_API_Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

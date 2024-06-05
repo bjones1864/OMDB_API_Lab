@@ -31,3 +31,4 @@ C:\Users\miwol\source\repos\OMDB_API_Lab\OMDB_API_Lab\obj\Debug\net8.0\refint\OM
 C:\Users\miwol\source\repos\OMDB_API_Lab\OMDB_API_Lab\obj\Debug\net8.0\OMDB_API_Lab.pdb
 C:\Users\miwol\source\repos\OMDB_API_Lab\OMDB_API_Lab\obj\Debug\net8.0\OMDB_API_Lab.genruntimeconfig.cache
 C:\Users\miwol\source\repos\OMDB_API_Lab\OMDB_API_Lab\obj\Debug\net8.0\ref\OMDB_API_Lab.dll
+C:\Users\miwol\source\repos\OMDB_API_Lab\OMDB_API_Lab\obj\Debug\net8.0\OMDB_API_Lab.sourcelink.json

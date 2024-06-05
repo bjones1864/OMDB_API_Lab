@@ -16,21 +16,24 @@
 </form>
 
 @{
-    foreach(MovieModel m in Model)
+    if(Model != null)
     {
-        if(m != null && m.Response.ToLower() != "false")
+        foreach(MovieModel m in Model)
         {
-            <div>
-                <h2>Title: @m.Title</h2>
-                <img src=@m.Poster />
-                <p>Year: @m.Year</p>
-                <p>Rated: @m.Rated</p>
-                <p>Genre: @m.Genre</p>
-                <p>Director: @m.Director</p>
-                <p>Actors: @m.Actors</p>
-                <p>Plot: @m.Plot</p>
-                <p>Awards: @m.Awards</p>
-            </div>
-        }
+            if(m != null && m.Response.ToLower() != "false")
+            {
+                <div>
+                    <h2>Title: @m.Title</h2>
+                    <img src=@m.Poster />
+                    <p>Year: @m.Year</p>
+                    <p>Rated: @m.Rated</p>
+                    <p>Genre: @m.Genre</p>
+                    <p>Director: @m.Director</p>
+                    <p>Actors: @m.Actors</p>
+                    <p>Plot: @m.Plot</p>
+                    <p>Awards: @m.Awards</p>
+                </div>
+            }
+        }        
     }
 }

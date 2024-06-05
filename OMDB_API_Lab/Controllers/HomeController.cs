@@ -30,6 +30,13 @@ namespace OMDB_API_Lab.Controllers
             return View(MovieDAL.GetMovie(title));
         }
 
+        [HttpGet]
+        public IActionResult MovieNight()
+        {
+            return View();
+        }
+
+        [HttpPost]
         public IActionResult MovieNight(string title1, string title2, string title3)
         {
             return View(new List<MovieModel>() { MovieDAL.GetMovie(title1), MovieDAL.GetMovie(title2), MovieDAL.GetMovie(title3) });
